@@ -152,6 +152,26 @@ When all three colours are detected:
 py-trees-tree-viewer
 ```
 
+### Behaviour Tree Viewer
+
+![Alt text](media/py_tree.png)
+
+
+### Images detected by Turtlebot
+
+![Alt text](media/detected_blue.png) ![Alt text](media/detected_red.png)
+![Alt text](media/detected_green.png)
+
+### Demo World in Gazebo
+
+![Alt text](https://github.com/rohithsanthosh/Behvaiour-Tree-using-TurtleBot3/blob/main/media/gazebo%20view.png)
+
+### Live data and feedback from termimnal
+
+![Alt text](https://github.com/rohithsanthosh/Behvaiour-Tree-using-TurtleBot3/blob/main/media/terminal%20view.png)
+
+
+
 ## Purpose
 
 This setup demonstrates:
@@ -172,9 +192,11 @@ This fulfills the assignment:
 
 ## Author
 
-**Rohith Santhosh
-B.Tech Robotics & Automation
-Saintgits College of Engineering**
+**Rohith Santhosh**
+
+**B.Tech Robotics & Automation**
+
+**Saintgits College of Engineering**
 
 
 
